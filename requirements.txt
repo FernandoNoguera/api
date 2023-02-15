@@ -11,7 +11,7 @@ charset-normalizer==3.0.1
 constantly==15.1.0
 cryptography==39.0.0
 daphne==4.0.0
-Django==4.1.5
+Django==4.1.7
 django-filter==22.1
 django-redis==5.2.0
 djangochannelsrestframework==1.1.0
